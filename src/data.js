@@ -16,7 +16,7 @@ export const prevProjects = [
     subtitle: "PHP, PhpMyAdmin-School Database(mySql)",
     description:
       "PHP + PhpMyAdmin database using MySql deployed on a school server.",
-    image: "./Campus_Voices.png",
+    image: "./project-1.gif",
     link: "https://www.studenti.famnit.upr.si/~89201013/CampusVoices/login.php",
   },
   

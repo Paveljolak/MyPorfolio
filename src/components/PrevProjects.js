@@ -2,7 +2,7 @@ import { CodeIcon } from "@heroicons/react/solid";
 import React from "react";
 import { prevProjects } from "../data";
 
-export default function prevProjects() {
+export default function PrevProjects() {
   return (
     <section id="prevProjects" className="text-gray-400 bg-gray-900 body-font">
       <div className="container px-5 py-10 mx-auto text-center lg:px-40">
