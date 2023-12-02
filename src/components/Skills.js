@@ -12,10 +12,16 @@ export default function Skills() {
             Skills &amp; Technologies
           </h1>
           <p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto">
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nisi sit
-            ipsa delectus eum quo voluptas aspernatur accusantium distinctio
-            possimus est.
+            I have dabbled with different game engines, and different web stacks.
+            
           </p>
+          <h3>School:</h3>
+          <p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto">
+            I am working on a few projects at the moment:
+          </p>
+          <h3>Personal:</h3>
+            For now I am trying to figure out React and to build immersive apps for users to enjoy. Later on, after my thesis I would like to 
+            start working with Godot and work on my ideas.
         </div>
         <div className="flex flex-wrap lg:w-4/5 sm:mx-auto sm:mb-2 -mx-2">
           {skills.map((skill) => (
